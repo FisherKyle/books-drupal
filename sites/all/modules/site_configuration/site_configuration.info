@@ -1,5 +1,5 @@
 name = Site Configuration
-description = configuration for strongarm variables
+description = configuration for strongarm variables v.2
 core = 7.x
 package = Features
 version = 7.x-2.10
